@@ -1,0 +1,56 @@
+[
+	{
+		"id": "1",
+		"name": "Airpods Wireless Bluetooth Headphones",
+		"description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+		"price": 89.99
+	},
+	{
+		"id": "2",
+		"name": "iPhone 11 Pro 256GB Memory",
+		"description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+		"price": 599.99
+	},
+	{
+		"id": "3",
+		"name": "Cannon EOS 80D DSLR Camera",
+		"description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+		"price": 929.99
+	},
+	{
+		"id": "4",
+		"name": "Sony Playstation 4 Pro White Version",
+		"description": "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
+		"price": 399.99
+	},
+	{
+		"id": "5",
+		"name": "Logitech G-Series Gaming Mouse",
+		"description": "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+		"price": 49.99
+	},
+	{
+		"id": "2ba551d7-e6cb-4978-a49d-3f72a94e8c0c",
+		"title": "Test Product",
+		"description": "This is my products",
+		"price": 100
+	},
+	{
+		"id": "8508838f-f4a6-4a8b-a0fd-e10e9d610319",
+		"title": "Test Product",
+		"description": "This is my products",
+		"price": 100
+	},
+	{
+		"id": "efe13b2f-7849-47ab-9122-ab4ab854322a",
+		"title": "Brads Product",
+		"description": "This is a product",
+		"price": 50
+	},
+	{
+		"id": "bc092fb0-3b29-4031-b149-4d7ab37a1abf",
+		"title": "Brads Product3",
+		"description": "This is a product",
+		"price": 50
+	}
+]
